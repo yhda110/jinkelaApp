@@ -1,0 +1,5 @@
+<!--pages/live/live.wxml-->
+<view class="wrapper">
+  <include src="../public/header.wxml"/> 
+  <text>我是一个直播页面</text>
+</view>
